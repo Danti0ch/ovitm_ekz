@@ -13,13 +13,70 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14.  Мера Бореля. Меры Лебега-Стилтьеса на прямой и ее сигма-аддитивность.md",
+                "file": "билеты/14.  Мера Бореля. Меры Лебега-Стилтьеса на прямой и ее сигма-аддитивность.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76ae975976b585e6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "files/2019_Эрлих.pdf"
+              }
+            }
+          },
+          {
+            "id": "6337c503d4a40091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89fee59f03854f19",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "files/Программа экзамена по ОВиТМ.pdf"
+              }
+            }
+          },
+          {
+            "id": "15378a44f5c90d0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "билеты/19. Распределение случайной величины.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86c468cdb97fbb9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "билеты/15. Сигма-конечные меры.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14.  Мера Бореля. Меры Лебега-Стилтьеса на прямой и ее сигма-аддитивность.md",
+                "file": "билеты/15. Сигма-конечные меры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14.  Мера Бореля. Меры Лебега-Стилтьеса на прямой и ее сигма-аддитивность.md",
+                "file": "билеты/15. Сигма-конечные меры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14.  Мера Бореля. Меры Лебега-Стилтьеса на прямой и ее сигма-аддитивность.md"
+                "file": "билеты/15. Сигма-конечные меры.md"
               }
             }
           }
@@ -146,6 +203,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "479af6b82fe31b91",
-  "lastOpenFiles": []
+  "active": "86c468cdb97fbb9d",
+  "lastOpenFiles": [
+    "files/2019_Эрлих.pdf",
+    "files/Программа экзамена по ОВиТМ.pdf",
+    "билеты/19. Распределение случайной величины.md",
+    "билеты/15. Сигма-конечные меры.md",
+    "билеты/12.  Структура измеримых множеств. Теорема Каратеодори.md",
+    "билеты/14.  Мера Бореля. Меры Лебега-Стилтьеса на прямой и ее сигма-аддитивность.md",
+    "TODO.md",
+    "билеты/10 -11. мера на системах множеств. Мера Лебега.md",
+    "Без названия 1.md"
+  ]
 }
