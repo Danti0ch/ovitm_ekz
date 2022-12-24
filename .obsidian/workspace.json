@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "4c404519e6f850cd",
+            "id": "75c5cafe39490552",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -28,7 +28,31 @@
             }
           },
           {
-            "id": "5c419bcdfa1fdd1a",
+            "id": "ef3d208068262724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/check.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "050c7d50300475b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "билеты/10 -11. мера на системах множеств. Мера Лебега.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae2cd0bc36bbba77",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,17 +64,31 @@
             }
           },
           {
-            "id": "75c5cafe39490552",
+            "id": "23f8e0fab19edb82",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "files/conspect.pdf"
+                "file": "12. Структура измеримых множеств. Каратеодори.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e1c83bc5c84b896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "16. Неизмеримые множества.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -100,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "95ddba866e235b26",
@@ -177,17 +216,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5c419bcdfa1fdd1a",
+  "active": "ae2cd0bc36bbba77",
   "lastOpenFiles": [
-    "files/conspect.pdf",
-    "13. Полнота и непрерывность мер. Теоремы о связи непрерывности и сигма-аддитивности.md",
-    "files/Программа экзамена по ОВиТМ.pdf",
-    "files/2019_Эрлих.pdf",
     "билеты/15. Сигма-конечные меры.md",
-    "билеты/19. Распределение случайной величины.md",
-    "билеты/12.  Структура измеримых множеств. Теорема Каратеодори.md",
+    "files/Программа экзамена по ОВиТМ.pdf",
+    "files/conspect.pdf",
+    "files/2019_Эрлих.pdf",
     "билеты/10 -11. мера на системах множеств. Мера Лебега.md",
-    "билеты/14.  Мера Бореля. Меры Лебега-Стилтьеса на прямой и ее сигма-аддитивность.md",
-    "TODO.md"
+    "16. Неизмеримые множества.md",
+    "12. Структура измеримых множеств. Каратеодори.md",
+    "templates/check.md",
+    "13. Полнота и непрерывность мер. Теоремы о связи непрерывности и сигма-аддитивности.md",
+    "билеты/19. Распределение случайной величины.md"
   ]
 }
